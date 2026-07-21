@@ -300,6 +300,7 @@ We build with
 
 ---
 
+
 ## 🌐 Connect With Us
 
 <div align="center">
@@ -316,10 +317,13 @@ We build with
 <img src="https://img.shields.io/badge/Join-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
+<a href="mailto:aibuildersiran@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Us-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <img src="https://img.shields.io/badge/Website-Coming%20Soon-6C757D?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 
 </div>
-
 
 ---
 
