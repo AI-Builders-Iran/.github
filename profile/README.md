@@ -300,6 +300,14 @@ We build with
 
 ---
 
+## 👥 Meet the Team
+
+Want to know the people behind AI Builders Iran?
+
+➡️ **[Meet Our Team](https://github.com/AI-Builders-Iran/.github/blob/main/profile/TEAM.md)**
+
+---
+
 
 ## 🌐 Connect With Us
 
