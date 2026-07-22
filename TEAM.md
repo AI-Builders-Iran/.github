@@ -15,7 +15,7 @@ Welcome to the **AI Builders Iran** team directory. Meet the amazing people who 
 <b>Hossein Heydari</b>
 </a>
 
-Organization Owner
+GitHub Organization Administrator
 
 AI/ML Engineer • Technical Lead 
 
