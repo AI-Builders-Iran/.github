@@ -33,7 +33,9 @@ Works closely with the Organization Founder & CTO, leading GitHub operations, te
 
 Organization Founder
 
-Founder & Technical Lead
+Founder • Chief Technology Officer (CTO) • Head of Engineering
+
+Leading the organization's vision, technical strategy, engineering teams, and open-source initiatives.
 
 <a href="https://github.com/hatamzadeh86">@hatamzadeh86</a>
 
