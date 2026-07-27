@@ -73,6 +73,30 @@ Works closely with the Organization Administrator and maintains active coordinat
 
 ---
 
+# 🤝 Strategic Partnerships & External Relations
+
+<table align="center">
+<tr>
+
+<td align="center">
+<a href="https://github.com/Mahsa-Shadi">
+<img src="https://github.com/Mahsa-Shadi.png" width="120px;" alt="Mahsa Shadi"/><br>
+<b>Mahsa Shadi</b>
+</a>
+
+Director of Strategic Partnerships
+
+Leading strategic collaborations, partnership negotiations, and external relations with companies, organizations, universities, and open-source communities.
+
+<a href="https://github.com/Mahsa-Shadi">@Mahsa-Shadi</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
 # 🤝 Core Team
 
 | Member | GitHub | Role |
