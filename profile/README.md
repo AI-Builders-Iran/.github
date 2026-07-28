@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 AI Builders Iran
+# 🚀 AI Builders 
 
 ### Build • Learn • Collaborate • Grow
 
@@ -339,7 +339,7 @@ Want to know the people behind AI Builders Iran?
 
 ## 🚀 Building intelligent systems. Growing exceptional engineers.
 
-### AI Builders Iran
+### AI Builders 
 
 **From Ideas to Intelligent Systems.**
 
