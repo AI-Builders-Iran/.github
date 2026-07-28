@@ -286,7 +286,7 @@ We build with
 
 <div align="center">
 
-| 🚀 | AI Builders Iran |
+| 🚀 | AI Builders |
 |:--|:-----------------|
 | 📅 **Founded** | **2026** |
 | 🌍 **Community** | Open Source |
@@ -302,7 +302,7 @@ We build with
 
 ## 👥 Meet the Team
 
-Want to know the people behind AI Builders Iran?
+Want to know the people behind AI Builders?
 
 ➡️ **[Meet Our Team](https://github.com/AI-Builders-Iran/.github/blob/main/TEAM.md)**
 
