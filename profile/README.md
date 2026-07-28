@@ -29,7 +29,7 @@ engineering excellence, and open-source contributions.
 
 # 🧠 About Us
 
-**AI Builders Iran** is an open and collaborative AI engineering community where passionate students, researchers, and developers build practical Artificial Intelligence solutions together.
+**AI Builders** is an open and collaborative AI engineering community where passionate students, researchers, and developers build practical Artificial Intelligence solutions together.
 
 We believe that real learning begins when knowledge meets implementation.
 
