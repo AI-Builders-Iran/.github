@@ -118,6 +118,7 @@ Leading strategic collaborations, partnership negotiations, and external relatio
 | **FatemeAmlahi** | [@FatemeAmlahi](https://github.com/FatemeAmlahi) | Core Member |
 | **Fatemeh** | [@SabzkariFatemeh](https://github.com/SabzkariFatemeh) | Core Member |
 | **mohammdz1997** | [@mohammdz1997](https://github.com/mohammdz1997) | Core Member |
+| **Nastaranyavari** | [@Nastaranyavari](https://github.com/Nastaranyavari) | Core Member |
 
 ---
 
