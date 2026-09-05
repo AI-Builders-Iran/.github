@@ -155,6 +155,7 @@ Leads strategic collaborations, partnership negotiations, and external relations
 | Fatemeh | [@SabzkariFatemeh](https://github.com/SabzkariFatemeh) | Core Member |
 | Mohammdz1997 | [@mohammdz1997](https://github.com/mohammdz1997) | Core Member |
 | Nastaranyavari | [@Nastaranyavari](https://github.com/Nastaranyavari) | Core Member |
+| behradtbr | [@behradtbr](https://github.com/orgs/AI-Builders-Iran/people/behradtbr) | Core Member|
 
 ---
 
