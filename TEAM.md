@@ -1,6 +1,6 @@
 # 👥 Team Members
 
-Welcome to the **AI Builders Iran** team directory.
+Welcome to the **AI Builders** team directory.
 
 Meet the people who build, maintain, and grow our open-source AI community.
 
@@ -20,10 +20,10 @@ Meet the people who build, maintain, and grow our open-source AI community.
 
 <br />
 
-**GitHub Organization Administrator**  
-Technical Lead • GitHub Operations Lead
+**Co-Founder**  
+Technical Lead • GitHub Operations Manager
 
-Works closely with the Organization Founder & CTO, leading GitHub operations, technical coordination, repository management, and cross-team collaboration.
+Co-founded the organization; leads technical direction and GitHub operations, including technical coordination, repository management, and cross-team collaboration.
 
 [@HosseinHeydari2004](https://github.com/HosseinHeydari2004)
 
@@ -39,10 +39,9 @@ Works closely with the Organization Founder & CTO, leading GitHub operations, te
 
 <br />
 
-**Organization Founder**  
-Founder • Chief Technology Officer (CTO) • Head of Engineering
+**Founder of this Organization**
 
-Leads the organization's vision, technical strategy, engineering teams, and open-source initiatives.
+Founded AI Builders and sets its vision and direction.
 
 [@hatamzadeh86](https://github.com/hatamzadeh86)
 
@@ -59,9 +58,9 @@ Leads the organization's vision, technical strategy, engineering teams, and open
 <td align="center">
 
 <a href="https://github.com/faridjb">
-<img src="https://github.com/faridjb.png" width="120px;" alt="Farid Jafari"/>
+<img src="https://github.com/faridjb.png" width="120px;" alt="Farid Jabari Maleki"/>
 <br />
-<b>Farid Jafari</b>
+<b>Farid Jabari Maleki</b>
 </a>
 
 <br />
@@ -97,7 +96,7 @@ Provides strategic guidance, technical expertise, and advisory support to the or
 Strategic Coordination • Executive Support • Organization Operations  
 Issue & Pull Request Management • Discussions • Contributor Support • Repository Maintenance
 
-Works closely with the Organization Administrator and maintains active coordination with the Founder and Team Lead.
+Works closely with the organization's leadership to maintain active coordination across the team.
 
 [@Eyna-A](https://github.com/Eyna-A)
 
@@ -151,17 +150,16 @@ Leads strategic collaborations, partnership negotiations, and external relations
 | Sanay & Sonay Hajirezaei | [@Mhajirezaei](https://github.com/Mhajirezaei) | Core Member |
 | Seyede Reyhane Khorashadizade | [@Seyede-Reyhane-Khorashadizade](https://github.com/Seyede-Reyhane-Khorashadizade) | Core Member |
 | Faribanass | [@faribanass](https://github.com/faribanass) | Core Member |
-| Fateme Amlahi | [@FatemeAmlahi](https://github.com/FatemeAmlahi) | Core Member |
 | Fatemeh | [@SabzkariFatemeh](https://github.com/SabzkariFatemeh) | Core Member |
 | Mohammdz1997 | [@mohammdz1997](https://github.com/mohammdz1997) | Core Member |
 | Nastaranyavari | [@Nastaranyavari](https://github.com/Nastaranyavari) | Core Member |
-| behradtbr | [@behradtbr](https://github.com/orgs/AI-Builders-Iran/people/behradtbr) | Core Member|
+| behradtbr | [@behradtbr](https://github.com/orgs/AI-Builders-Iran/people/behradtbr) | Core Member |
 
 ---
 
 ## 🌟 Want to Join Us?
 
-We welcome developers, researchers, students, and AI enthusiasts from all backgrounds.
+We welcome developers, researchers, and AI enthusiasts from all backgrounds.
 
 You can contribute by:
 
@@ -190,6 +188,6 @@ We believe in the power of **open collaboration, knowledge sharing, and communit
 <br />
 <br />
 
-Made with ❤️ by <b>AI Builders Iran</b>
+Made with ❤️ by <b>AI Builders</b>
 
 </p>
