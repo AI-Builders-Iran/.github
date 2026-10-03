@@ -71,6 +71,13 @@ We work equally across two core pillars: **production-ready Computer Vision syst
 |---|---|---|
 | **Farid Jabari Maleki** ([@faridjb](https://github.com/faridjb)) | Strategic & Technical Advisor | Provides strategic guidance and technical expertise to leadership; contributes to technical decision-making and long-term planning |
 
+### 🤝 Client Relations & Technical Advisory
+
+| Member | Title | Responsibilities |
+|---|---|---|
+| **samizi** ([@samiscooter](https://github.com/samiscooter)) | Technical & Client Relations Advisor | Acts as a bridge between the technical team and clients; supports client communication, requirements gathering, project discussions, and technical negotiations |
+
+
 ### 🛡️ Community Management & Executive Coordination
 
 | Member | Title | Responsibilities |
