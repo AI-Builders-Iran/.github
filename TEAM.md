@@ -77,6 +77,32 @@ Provides strategic guidance, technical expertise, and advisory support to the or
 
 ---
 
+## 🤝 Client Relations & Technical Advisory
+
+<table align="center">
+<tr>
+<td align="center">
+
+<a href="https://github.com/samiscooter">
+<img src="https://github.com/samiscooter.png" width="120px;" alt="Sami Scooter"/>
+<br />
+<b>Sami Scooter</b>
+</a>
+
+<br />
+
+**Technical & Client Relations Advisor**
+
+Acts as a bridge between the technical team and clients, supporting client communication, requirements gathering, project discussions, and technical negotiations.
+
+[@samiscooter](https://github.com/samiscooter)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛡️ Community Management & Executive Coordination
 
 <table align="center">
@@ -142,7 +168,6 @@ Leads strategic collaborations, partnership negotiations, and external relations
 | Camelia | [@cmliaa](https://github.com/cmliaa) | Core Member |
 | Erfan Jenab | [@Erfanjenab](https://github.com/Erfanjenab) | Core Member |
 | Farshad Zargari | [@farshadz1997](https://github.com/farshadz1997) | Core Member |
-| Mahsa Shadi | [@Mahsa-Shadi](https://github.com/Mahsa-Shadi) | Core Member |
 | Maral Farahmandfar | [@MaralFarahmandfar](https://github.com/MaralFarahmandfar) | Core Member |
 | Mohadese Mohamadiha | [@Mohii722](https://github.com/Mohii722) | Core Member |
 | Negin | [@negin20000](https://github.com/negin20000) | Core Member |
