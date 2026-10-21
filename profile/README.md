@@ -62,7 +62,7 @@ We work equally across two core pillars: **production-ready Computer Vision syst
 
 | Member | Title | Responsibilities |
 |---|---|---|
-| **Amir Mohammad Hatamzadeh** ([@hatamzadeh86](https://github.com/hatamzadeh86)) | Founder of this organization | Sets the organization's vision and direction |
+| **Amir Mohammad Hatamzadeh** ([@hatamzadeh86](https://github.com/hatamzadeh86)) | Founder & CEO of this organization | Sets the organization's vision and direction |
 | **Hossein Heydari** ([@HosseinHeydari2004](https://github.com/HosseinHeydari2004)) | Co-Founder, Technical Lead, GitHub Operations Manager | Leads technical direction and GitHub operations; drives repository management and cross-team coordination |
 
 ### 🧭 Strategic & Technical Advisory
