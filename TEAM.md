@@ -20,10 +20,10 @@ Meet the people who build, maintain, and grow our open-source AI community.
 
 <br />
 
-**Co-Founder**  
-Technical Lead • GitHub Operations Manager
+**Co-Founder & CTO**  
+CTO • Technical Lead • GitHub Operations Manager
 
-Co-founded the organization; leads technical direction and GitHub operations, including technical coordination, repository management, and cross-team collaboration.
+Co-founded  & CTO the organization; leads technical direction and GitHub operations, including technical coordination, repository management, and cross-team collaboration.
 
 [@HosseinHeydari2004](https://github.com/HosseinHeydari2004)
 
@@ -39,9 +39,9 @@ Co-founded the organization; leads technical direction and GitHub operations, in
 
 <br />
 
-**Founder of this Organization**
+**Founder & CEO of this Organization**
 
-Founded AI Builders and sets its vision and direction.
+Founded & CEO AI Builders and sets its vision and direction.
 
 [@hatamzadeh86](https://github.com/hatamzadeh86)
 
